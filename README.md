@@ -13,7 +13,7 @@ An interactive, animation-heavy landing page for a digital agency, inspired by t
   <img src="jj.jpeg" width="500">
 </p>
 
-**Live demo:** (https://coffeewithjay.vercel.app/)
+**Live demo:** (https://newcuberto.vercel.app/)
 
 ---
 
