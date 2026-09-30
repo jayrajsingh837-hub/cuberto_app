@@ -11,7 +11,6 @@ An interactive, animation-heavy landing page for a digital agency, inspired by t
 <p align="center">
   <img src="ss.jpeg" width="500">
   <img src="jj.jpeg" width="500">
-  <img src="gg,jpeg" width="500">
 </p>
 
 **Live demo:** (https://coffeewithjay.vercel.app/)
