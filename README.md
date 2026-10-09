@@ -2,7 +2,7 @@
 
 An interactive, animation-heavy landing page for a digital agency, inspired by the design of [Cuberto](https://cuberto.com/). It features a custom mouse follower, magnetic navigation, video-on-hover headings, scroll-pinned project showcases with WebGL image distortion, and a responsive contact/footer section.
 
-> Built as a personal front-end project while learning advanced web animation as a 3rd-year B.Tech CSE student. This is a learning/practice project and is not affiliated with Cuberto.
+> Built as a personal front-end project while learning advanced web animation as a 3rd-year B.Tech CSE student. This is a learning/practice project and is not affiliated with  Cuberto.
 
 ---
 
